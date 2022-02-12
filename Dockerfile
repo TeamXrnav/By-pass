@@ -8,4 +8,4 @@ RUN pip3 install -U -r requirements.txt
 
 ENV PATH="/home/cyborg/bin:$PATH"
 
-CMD ["python3", "-m", "cyborg"]
+CMD ["python3", "-m", "cyborgbot"]
