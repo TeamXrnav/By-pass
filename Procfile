@@ -1,1 +1,1 @@
-worker: bash Cyborg
+worker: bash Cyborgbot
